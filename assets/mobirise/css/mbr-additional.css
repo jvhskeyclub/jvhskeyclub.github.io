@@ -2655,6 +2655,32 @@ body {
 .cid-r8GyWSlW1F .mbr-section-btn {
   color: #232323;
 }
+.cid-r9rNjWIxLu {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #232323;
+}
+.cid-r9rNjWIxLu .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-r9rNjWIxLu .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-r9rNjWIxLu .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-r9rNjWIxLu .mbr-text {
+    text-align: center;
+  }
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #767676;
@@ -4200,9 +4226,6 @@ body {
   padding-top: 90px;
   padding-bottom: 0px;
   background-color: #767676;
-}
-.cid-r8GLNAO6YL {
-  background-image: url("../../../assets/images/2018-kcw-fb-cover-photo-2000x761.png");
 }
 .cid-r4OFBVgpd7 {
   padding-top: 60px;
@@ -5891,7 +5914,7 @@ body {
 .cid-r2CWnuvwfl {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/15422597676079032-1-750x1000.jpg");
 }
 .cid-r2CWnuvwfl .media-container-row {
   flex-direction: row-reverse;
@@ -6304,6 +6327,17 @@ body {
 }
 .cid-r3aY86s9KY {
   background-image: url("../../../assets/images/22042227-1754787274554330-241955866637768018-o-2000x1333.jpg");
+}
+.cid-r9rzcDdAbm {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/meeting6-1084x623.png");
+}
+.cid-r9rzcDdAbm .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r9rzcDdAbm .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-r8GKGA27nL {
   padding-top: 120px;
@@ -6737,4 +6771,30 @@ body {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #000000 !important;
+}
+.cid-r9rHIGLHCx {
+  background-image: url("../../../assets/images/banner-img-1920x937.jpg");
+}
+.cid-r9rLYcayye {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-r9rLYcayye .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-r9rLYcayye .section-text {
+  padding: 2rem 0;
+}
+.cid-r9rLYcayye .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-r9rLYcayye .inner-container {
+    width: 100% !important;
+  }
 }
