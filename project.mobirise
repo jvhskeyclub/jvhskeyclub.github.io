@@ -5308,7 +5308,7 @@
               }
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#232323"
+              "color": "#000000"
             },
             "H1": {
               "color": "#232323"
@@ -5366,7 +5366,7 @@
               }
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#232323"
+              "color": "#000000"
             },
             "H1": {
               "color": "#232323"
@@ -5424,7 +5424,7 @@
               }
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#232323"
+              "color": "#000000"
             },
             "H1": {
               "color": "#232323"
@@ -5482,7 +5482,7 @@
               }
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#232323"
+              "color": "#000000"
             },
             "H1": {
               "color": "#232323"
@@ -5540,7 +5540,7 @@
               }
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#232323"
+              "color": "#000000"
             },
             "H1": {
               "color": "#232323"
@@ -5598,7 +5598,7 @@
               }
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#232323"
+              "color": "#000000"
             },
             "H1": {
               "color": "#232323"
@@ -5656,7 +5656,7 @@
               }
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#232323"
+              "color": "#000000"
             },
             "H1": {
               "color": "#232323"
