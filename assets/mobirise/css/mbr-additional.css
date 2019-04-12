@@ -1787,7 +1787,7 @@ body {
 }
 .cid-qTkA127IK8 H1 {
   text-align: center;
-  color: #ffffff;
+  color: #f9f9f9;
 }
 .cid-qTkA127IK8 H3 {
   color: #ffffff;
@@ -2567,7 +2567,7 @@ body {
   color: #000000 !important;
 }
 .cid-r3plhxAWPg {
-  background-image: url("../../../assets/images/mbr-1920x768.jpg");
+  background-image: url("../../../assets/images/volunteer-hands-2000x1672.jpg");
 }
 .cid-r3plhxAWPg h1 {
   color: #616161;
@@ -2580,10 +2580,16 @@ body {
 .cid-r3plhxAWPg .mbr-section-subtitle {
   font-style: italic;
 }
+.cid-r3plhxAWPg B {
+  color: #000000;
+}
+.cid-r3plhxAWPg P {
+  color: #171a1b;
+}
 .cid-r2CiN6I2NB {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #cccccc;
 }
 .cid-r2CiN6I2NB .mbr-section-subtitle {
   color: #767676;
@@ -2591,7 +2597,7 @@ body {
 .cid-r2Cn6Efl9g {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #b2ccd2;
 }
 .cid-r2Cn6Efl9g h2 {
   text-align: center;
@@ -3092,6 +3098,16 @@ body {
 }
 .cid-r2D1YftsME .mbr-section-subtitle {
   letter-spacing: .2rem;
+}
+.cid-r2D1YftsME H1 {
+  color: #149dcc;
+}
+.cid-r2D1YftsME H3 {
+  color: #55b4d4;
+}
+.cid-r2D1YftsME .mbr-text,
+.cid-r2D1YftsME .mbr-section-btn {
+  color: #efefef;
 }
 .cid-r2Tc3trcvq {
   padding-top: 75px;
@@ -4290,10 +4306,13 @@ body {
 .cid-r2DdwmsZ1I {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #3189a7;
 }
 .cid-r2DdwmsZ1I .mbr-section-subtitle {
-  color: #767676;
+  color: #000000;
+}
+.cid-r2DdwmsZ1I H2 {
+  color: #32bfef;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
