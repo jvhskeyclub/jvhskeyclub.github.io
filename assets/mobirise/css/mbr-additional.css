@@ -5433,11 +5433,11 @@ body {
 .cid-r2VKRZFRET {
   padding-top: 90px;
   padding-bottom: 15px;
-  background-color: #3189a7;
+  background-color: #75c7ea;
 }
 .cid-r2VKRZFRET .line {
-  background-color: #3189a7;
-  color: #3189a7;
+  background-color: #4ab8de;
+  color: #4ab8de;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -5516,6 +5516,41 @@ body {
   color: #232323;
 }
 .cid-rhmY5YYAed B {
+  color: #000000;
+}
+.cid-rk5spmxDPH {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rk5spmxDPH .media-container-row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rk5spmxDPH .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rk5spmxDPH .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rk5spmxDPH .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rk5spmxDPH .mbr-text,
+.cid-rk5spmxDPH .mbr-section-btn {
+  color: #000000;
+}
+.cid-rk5spmxDPH H1 {
+  color: #232323;
+}
+.cid-rk5spmxDPH B {
   color: #000000;
 }
 .cid-rhmXyqW5Tj {
@@ -5611,41 +5646,6 @@ body {
   color: #232323;
 }
 .cid-rk5sjEjtC4 B {
-  color: #000000;
-}
-.cid-rk5spmxDPH {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rk5spmxDPH .media-container-row {
-  flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-rk5spmxDPH .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rk5spmxDPH .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rk5spmxDPH .mbr-text {
-    text-align: center;
-  }
-}
-.cid-rk5spmxDPH .mbr-text,
-.cid-rk5spmxDPH .mbr-section-btn {
-  color: #000000;
-}
-.cid-rk5spmxDPH H1 {
-  color: #232323;
-}
-.cid-rk5spmxDPH B {
   color: #000000;
 }
 .cid-rk5sttrhij {
@@ -6691,7 +6691,7 @@ body {
 .cid-r3pivSc2H0 {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/comingsoon-1-562x55624.png");
+  background-image: url("../../../assets/images/first-meeting-960x540.jpg");
 }
 .cid-r3pivSc2H0 .mbr-section-subtitle {
   color: #767676;
