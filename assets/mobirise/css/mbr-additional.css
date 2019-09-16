@@ -5683,14 +5683,49 @@ body {
 .cid-rk5sttrhij B {
   color: #000000;
 }
-.cid-rk5sjEjtC4 {
+.cid-rCbDUx430F {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #efefef;
 }
 @media (min-width: 992px) {
+  .cid-rCbDUx430F .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rCbDUx430F .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rCbDUx430F .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rCbDUx430F .mbr-text,
+.cid-rCbDUx430F .mbr-section-btn {
+  color: #000000;
+}
+.cid-rCbDUx430F H1 {
+  color: #232323;
+}
+.cid-rCbDUx430F B {
+  color: #000000;
+}
+.cid-rk5sjEjtC4 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rk5sjEjtC4 .media-container-row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
   .cid-rk5sjEjtC4 .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
@@ -5718,14 +5753,9 @@ body {
   padding-bottom: 90px;
   background-color: #efefef;
 }
-.cid-rC0HfPl2A6 .media-container-row {
-  flex-direction: row-reverse;
-}
 @media (min-width: 992px) {
   .cid-rC0HfPl2A6 .mbr-figure {
     padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
@@ -5746,6 +5776,41 @@ body {
   color: #232323;
 }
 .cid-rC0HfPl2A6 B {
+  color: #000000;
+}
+.cid-rCbFrZ6PFv {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rCbFrZ6PFv .media-container-row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rCbFrZ6PFv .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rCbFrZ6PFv .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rCbFrZ6PFv .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rCbFrZ6PFv .mbr-text,
+.cid-rCbFrZ6PFv .mbr-section-btn {
+  color: #000000;
+}
+.cid-rCbFrZ6PFv H1 {
+  color: #232323;
+}
+.cid-rCbFrZ6PFv B {
   color: #000000;
 }
 .cid-r8GG9V88L8 {
