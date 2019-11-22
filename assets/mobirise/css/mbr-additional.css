@@ -5518,6 +5518,36 @@ body {
 .cid-rCgJB2KX6e B {
   color: #000000;
 }
+.cid-rIw8OGjYD3 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+@media (min-width: 992px) {
+  .cid-rIw8OGjYD3 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rIw8OGjYD3 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rIw8OGjYD3 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rIw8OGjYD3 .mbr-text,
+.cid-rIw8OGjYD3 .mbr-section-btn {
+  color: #000000;
+}
+.cid-rIw8OGjYD3 H1 {
+  color: #232323;
+}
+.cid-rIw8OGjYD3 B {
+  color: #000000;
+}
 .cid-rHHP4pKaIF {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -6989,6 +7019,17 @@ body {
 }
 .cid-r3aY86s9KY {
   background-image: url("../../../assets/images/22042227-1754787274554330-241955866637768018-o-2000x13332623.jpg");
+}
+.cid-rIw8clFKw0 {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/general-meeting-11-20-960x540.jpg");
+}
+.cid-rIw8clFKw0 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rIw8clFKw0 .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-rHeBfz0kof {
   padding-top: 120px;
