@@ -2625,10 +2625,10 @@ a {
 .cid-s9s5gRtAiA {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #ffb5b5;
 }
 .cid-s9s5gRtAiA .content-wrapper {
-  background: #fafafa;
+  background: #ffffff;
 }
 @media (max-width: 991px) {
   .cid-s9s5gRtAiA .content-wrapper .row {
@@ -2657,6 +2657,158 @@ a {
   }
 }
 .cid-s9s5gRtAiA .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-sbsqa5KlMh {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #001ba6;
+}
+.cid-sbsqa5KlMh .content-wrapper {
+  background: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sbsqa5KlMh .content-wrapper .row {
+    flex-direction: column-reverse;
+  }
+  .cid-sbsqa5KlMh .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sbsqa5KlMh .content-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-sbsqa5KlMh .content-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sbsqa5KlMh .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-sbsqa5KlMh .content-wrapper .text-wrapper {
+    padding-right: 2rem;
+  }
+}
+.cid-sbsqa5KlMh .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-sbsvUyZJUn {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #c1e3d3;
+}
+.cid-sbsvUyZJUn .content-wrapper {
+  background: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sbsvUyZJUn .content-wrapper .row {
+    flex-direction: column-reverse;
+  }
+  .cid-sbsvUyZJUn .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sbsvUyZJUn .content-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-sbsvUyZJUn .content-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sbsvUyZJUn .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-sbsvUyZJUn .content-wrapper .text-wrapper {
+    padding-right: 2rem;
+  }
+}
+.cid-sbsvUyZJUn .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-sbsA22Le7W {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #a81612;
+}
+.cid-sbsA22Le7W .content-wrapper {
+  background: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sbsA22Le7W .content-wrapper .row {
+    flex-direction: column-reverse;
+  }
+  .cid-sbsA22Le7W .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sbsA22Le7W .content-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-sbsA22Le7W .content-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sbsA22Le7W .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-sbsA22Le7W .content-wrapper .text-wrapper {
+    padding-right: 2rem;
+  }
+}
+.cid-sbsA22Le7W .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-sbsBPRTM4p {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #efad0e;
+}
+.cid-sbsBPRTM4p .content-wrapper {
+  background: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sbsBPRTM4p .content-wrapper .row {
+    flex-direction: column-reverse;
+  }
+  .cid-sbsBPRTM4p .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sbsBPRTM4p .content-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-sbsBPRTM4p .content-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sbsBPRTM4p .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-sbsBPRTM4p .content-wrapper .text-wrapper {
+    padding-right: 2rem;
+  }
+}
+.cid-sbsBPRTM4p .image-wrapper img {
   width: 100%;
   object-fit: cover;
 }
@@ -4858,10 +5010,10 @@ a {
 .cid-s9Lqj3q9lR {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #4479d9;
+  background-image: url("../../../assets/images/first-meeting-9-23-960x540.png");
 }
 .cid-s9Lqj3q9lR .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-s9gyjPUwBf {
   padding-top: 3rem;
