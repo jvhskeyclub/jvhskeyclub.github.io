@@ -2625,7 +2625,7 @@ a {
 .cid-s9s5gRtAiA {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffb5b5;
+  background-color: #ddc17f;
 }
 .cid-s9s5gRtAiA .content-wrapper {
   background: #ffffff;
@@ -2663,7 +2663,7 @@ a {
 .cid-sbsqa5KlMh {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #001ba6;
+  background-color: #fe859e;
 }
 .cid-sbsqa5KlMh .content-wrapper {
   background: #ffffff;
@@ -2701,7 +2701,7 @@ a {
 .cid-sbsvUyZJUn {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #c1e3d3;
+  background-color: #ee7623;
 }
 .cid-sbsvUyZJUn .content-wrapper {
   background: #ffffff;
@@ -2739,7 +2739,7 @@ a {
 .cid-sbsA22Le7W {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #a81612;
+  background-color: #f599c0;
 }
 .cid-sbsA22Le7W .content-wrapper {
   background: #ffffff;
@@ -2777,7 +2777,7 @@ a {
 .cid-sbsBPRTM4p {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #efad0e;
+  background-color: #006f47;
 }
 .cid-sbsBPRTM4p .content-wrapper {
   background: #ffffff;
@@ -2809,6 +2809,44 @@ a {
   }
 }
 .cid-sbsBPRTM4p .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-sdVnNfdDqJ {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffdd96;
+}
+.cid-sdVnNfdDqJ .content-wrapper {
+  background: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sdVnNfdDqJ .content-wrapper .row {
+    flex-direction: column-reverse;
+  }
+  .cid-sdVnNfdDqJ .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sdVnNfdDqJ .content-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-sdVnNfdDqJ .content-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sdVnNfdDqJ .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-sdVnNfdDqJ .content-wrapper .text-wrapper {
+    padding-right: 2rem;
+  }
+}
+.cid-sdVnNfdDqJ .image-wrapper img {
   width: 100%;
   object-fit: cover;
 }
@@ -5013,7 +5051,15 @@ a {
   background-image: url("../../../assets/images/first-meeting-9-23-960x540.png");
 }
 .cid-s9Lqj3q9lR .mbr-section-title {
-  color: #000000;
+  color: #ffffff;
+}
+.cid-sdVeVPqk0E {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-image: url("../../../assets/images/2020-10-8-960x540.png");
+}
+.cid-sdVeVPqk0E .mbr-section-title {
+  color: #ffffff;
 }
 .cid-s9gyjPUwBf {
   padding-top: 3rem;
