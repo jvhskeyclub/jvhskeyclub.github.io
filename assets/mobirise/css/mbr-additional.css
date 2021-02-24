@@ -1636,38 +1636,95 @@ a {
   padding-bottom: 5rem;
   background-color: #ff8a8a;
 }
-.cid-s9lMC5TqyH {
+.cid-spTYEsqygq {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffb18a;
+}
+.cid-spTYEsqygq .mbr-text {
+  color: #767676;
+}
+.cid-spTYEsqygq .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-spTYEsqygq .title .num {
+  width: 100%;
+  display: block;
+  font-size: 4rem;
+}
+.cid-spTYEsqygq .title .card-title {
+  z-index: 1;
+}
+.cid-spTYEsqygq .num {
+  color: #ff9966;
+}
+@media (max-width: 767px) {
+  .cid-spTYEsqygq * {
+    text-align: center !important;
+  }
+  .cid-spTYEsqygq .content-column {
+    margin-bottom: 2rem;
+  }
+}
+.cid-spTYEsqygq .mbr-section-title,
+.cid-spTYEsqygq .card-box {
+  text-align: center;
+}
+.cid-spTYEsqygq .mbr-text,
+.cid-spTYEsqygq .mbr-section-btn {
+  color: #000000;
+}
+.cid-spTTiRmXgb {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #8caff0;
+}
+.cid-spTPferQqz {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #bed3f9;
 }
-.cid-s9lMC5TqyH .item {
-  display: flex;
-  align-items: center;
+.cid-spTPferQqz .item:focus,
+.cid-spTPferQqz span:focus {
+  outline: none;
+}
+.cid-spTPferQqz .item {
+  cursor: pointer;
   margin-bottom: 2rem;
 }
-.cid-s9lMC5TqyH .icon-box {
-  background: #6592e6;
-  width: 60px;
-  min-width: 60px;
-  height: 60px;
-  border-radius: 50%;
-  margin-right: 1rem;
+.cid-spTPferQqz .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #bed3f9;
+  height: 100%;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  flex-flow: column nowrap;
 }
-.cid-s9lMC5TqyH .mbr-iconfont {
-  font-size: 2rem;
-  color: #ffffff;
+@media (min-width: 992px) {
+  .cid-spTPferQqz .item-wrapper .item-content {
+    padding: 2rem;
+  }
 }
 @media (max-width: 991px) {
-  .cid-s9lMC5TqyH .card {
-    margin-bottom: 2rem;
+  .cid-spTPferQqz .item-wrapper .item-content {
+    padding: 1rem;
   }
-  .cid-s9lMC5TqyH .card-wrapper {
-    margin-bottom: 2rem;
-  }
+}
+.cid-spTPferQqz .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-spTPferQqz .mbr-section-title {
+  color: #232323;
+}
+.cid-spTPferQqz .mbr-text,
+.cid-spTPferQqz .mbr-section-btn {
+  text-align: left;
+}
+.cid-spTPferQqz .item-title {
+  text-align: left;
+}
+.cid-spTPferQqz .item-subtitle {
+  text-align: center;
 }
 .cid-s9lVLhthuT {
   padding-top: 6rem;
