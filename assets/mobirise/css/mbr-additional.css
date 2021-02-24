@@ -2857,6 +2857,24 @@ a {
 .cid-s9LBvysr8O .mbr-section-subtitle {
   color: #bed3f9;
 }
+.cid-spXwdALoav {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ff8a8a;
+}
+.cid-spXwdALoav .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-spXwdALoav .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-spXwdALoav .text-wrapper {
+    padding: 0 2rem;
+  }
+}
 .cid-s9LIoKp9gb {
   padding-top: 5rem;
   padding-bottom: 5rem;
