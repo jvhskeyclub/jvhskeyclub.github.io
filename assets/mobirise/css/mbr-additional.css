@@ -2880,10 +2880,24 @@ a {
   padding-bottom: 5rem;
   background-color: #bed3f9;
 }
+.cid-sqgmQ2OyNr {
+  background-color: #8bcfba;
+}
+@media (max-width: 991px) {
+  .cid-sqgmQ2OyNr .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sqgmQ2OyNr .row {
+  flex-direction: row-reverse;
+}
+.cid-sqgmQ2OyNr img {
+  width: 100%;
+}
 .cid-slbchCaNCz {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #f51401;
+  background-color: #8c53f0;
 }
 .cid-slbchCaNCz .content-wrapper {
   background: #ffffff;
@@ -2921,7 +2935,7 @@ a {
 .cid-sbsqa5KlMh {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ac1128;
+  background-color: #374c6b;
 }
 .cid-sbsqa5KlMh .content-wrapper {
   background: #ffffff;
