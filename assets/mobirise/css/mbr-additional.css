@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Questrial:400&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Didact+Gothic:400&display=swap);
 @import url(https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i&display=swap);
@@ -13,14 +12,14 @@ body {
 }
 .display-1 {
   font-family: 'Questrial', sans-serif;
-  font-size: 4rem;
+  font-size: 3.6rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5rem;
+  font-size: 4.5rem;
 }
 .display-2 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Questrial', sans-serif;
   font-size: 2.4rem;
   line-height: 1.1;
 }
@@ -58,14 +57,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 3.2rem;
+    font-size: 2.88rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.8rem;
-    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.52rem;
+    font-size: calc( 1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.92rem;
@@ -2890,10 +2889,10 @@ a {
   background-image: url("../../../assets/images/image2-2000x1500.jpg");
 }
 .cid-s9LBvysr8O .mbr-section-title {
-  color: #9fdbf8;
+  color: #ffffff;
 }
 .cid-s9LBvysr8O .mbr-section-subtitle {
-  color: #9fdbf8;
+  color: #ffffff;
 }
 .cid-s9LIoKp9gb {
   padding-top: 5rem;
